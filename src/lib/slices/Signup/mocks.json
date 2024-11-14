@@ -1,0 +1,35 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor consequat laborum magna sit enim ullamco exercitation nostrud."
+						}
+					}
+				]
+			},
+			"name": {
+				"__TYPE__": "FieldContent",
+				"value": "choice",
+				"type": "Text"
+			},
+			"email": {
+				"__TYPE__": "FieldContent",
+				"value": "five",
+				"type": "Text"
+			},
+			"excited": {
+				"__TYPE__": "FieldContent",
+				"value": "anywhere",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
